@@ -44,7 +44,7 @@
       </form>
 
       <p class="mt-10 text-center text-sm/6 text-gray-500">
-        还没注册?
+        don't have a count?
         {{ ' ' }}
         <a href="/registration" class="font-semibold text-indigo-600 hover:text-indigo-500">注册</a>
       </p>
